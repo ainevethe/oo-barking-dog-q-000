@@ -3,7 +3,7 @@
 class Dog
 
   def initialize(dog)
-  
+
   end
 
   def bark
