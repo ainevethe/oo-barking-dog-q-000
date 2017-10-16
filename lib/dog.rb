@@ -6,7 +6,7 @@ class Dog
     @name = name
   end
 
-  def bark
+  def dog.bark
     puts "Woof!"
   end
 
